@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="madfox.colhh.quiz.StartQuiz" >
+
+	<item
+        android:id="@+id/submit_item"
+        android:orderInCategory="10"
+        android:title="@string/submit_item"
+        android:icon="@drawable/ic_action_accept"
+        app:showAsAction="always"/>
+	
+</menu>

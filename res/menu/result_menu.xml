@@ -1,0 +1,27 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="madfox.colhh.quiz.StartQuiz" >
+
+	<item
+        android:id="@+id/publish_item"
+        android:orderInCategory="10"
+        android:title="@string/publish_item"
+        android:icon="@drawable/ic_action_share"
+        app:showAsAction="always"/>
+	
+	<item
+        android:id="@+id/try_item"
+        android:orderInCategory="20"
+        android:title="@string/try_item"
+        android:icon="@drawable/ic_action_repeat"
+        app:showAsAction="ifRoom"/>
+	
+	<item
+        android:id="@+id/startnew_item"
+        android:orderInCategory="30"
+        android:title="@string/start_new"
+        android:icon="@drawable/ic_action_next_item"
+        app:showAsAction="ifRoom"/>
+	
+</menu>

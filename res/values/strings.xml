@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">USA Celebrity</string>
+
+    <!-- StartQuiz -->
+    <string name="main_title">Questionnaire Series</string>
+    <string name="category_title">Celebrity</string>
+    <string name="btn_start">Start Quiz</string>
+    <string name="txt_desc">5 Questions / 100 Max Score</string>
+
+    <!-- TimeLeft -->
+    <string name="time_left">Time Left : </string>
+
+    <!-- Questions -->
+    <string name="advice1">Tap the answer or </string>
+    <string name="btn_skip">Skip</string>
+
+    <!-- Review -->
+    <string name="btn_submit">Submit</string>
+
+    <!-- Result -->
+    <string name="txt_marks">Marks </string>
+    <string name="txt_marks_desc">out of 100</string>
+    <string name="txt_within">Within </string>
+    <string name="txt_publish">Publish Result</string>
+    <string name="btn_share">Share Result</string>
+    <string name="btn_retry">Try Again</string>
+    <string name="btn_new">Start New</string>
+
+    <!-- SalesAdz -->
+    <string name="sales_title">Questionnaires (Swipe for others)</string>
+    <string name="title_activity_main">USA Celebrity Quiz</string>
+    <string name="hello_world">Hello world!</string>
+    
+    <string name="skip_item">Skip</string>
+    <string name="start_new">Start New</string>
+    <string name="submit_item">Submit</string>
+    <string name="publish_item">Publish</string>
+    <string name="try_item">Try Again</string>
+
+</resources>

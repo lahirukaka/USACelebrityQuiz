@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="d_green">#669900</color>
+    <color name="l_green">#99CC00</color>
+    <color name="d_accent">#9933CC</color>
+    <color name="l_accent">#AA66CC</color>
+    <color name="ash1">#C7C7C7</color>
+    
+    <color name="colorPrimary">#4CAF50</color>
+    <color name="colorPrimaryDark">#388E3C</color>
+    <color name="colorAccent">#00C853</color>
+</resources>
